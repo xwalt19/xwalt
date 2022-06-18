@@ -1,0 +1,2 @@
+# xwalt
+oprasional computer
